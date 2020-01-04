@@ -192,3 +192,7 @@ xsts.auth.xboxlive.com
 youtu.be
 youtube-nocookie.com
 yt3.ggpht.com
+b-api.facebook.com #Facebook
+b-graph.facebook.com #Facebook
+graph.facebook.com #Facebook
+star.c10r.facebook.com #Facebook
