@@ -202,4 +202,9 @@ linkedin.com #LinkedIn
 www.rediff.com #Rediff
 im.rediff.com #Rediff
 img03.en25.com #Mattamy
-cdns.gigya.com # Aeroplan
+cdns.gigya.com #Aeroplan
+oascentral.aeroplan.com #Aeroplan
+som.aeroplan.com #Aeroplan
+nexus.officeapps.live.com #OneNote Authentication/MS Office
+nexusrules.officeapps.live.com #OneNote Authentication/MS Office
+officeclient.microsoft.com #OneNote Authentication/MS Office
