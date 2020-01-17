@@ -196,6 +196,7 @@ b-api.facebook.com #Facebook
 b-graph.facebook.com #Facebook
 graph.facebook.com #Facebook
 star.c10r.facebook.com #Facebook
+edge-chat.facebook.com
 0-edge-chat.facebook.com
 1-edge-chat.facebook.com
 2-edge-chat.facebook.com
