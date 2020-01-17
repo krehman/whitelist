@@ -196,6 +196,16 @@ b-api.facebook.com #Facebook
 b-graph.facebook.com #Facebook
 graph.facebook.com #Facebook
 star.c10r.facebook.com #Facebook
+0-edge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+bigzipfiles.facebook.com #Facebook Archive
+video.xx.fbcdn.net # FaceBook Video
+scontent.xx.fbcdn.net # FaceBook Video Content
 media.licdn.com #LinkedIn
 static.licdn.com #LinkedIn Stats
 linkedin.com #LinkedIn
