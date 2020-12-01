@@ -219,3 +219,4 @@ som.aeroplan.com #Aeroplan
 nexus.officeapps.live.com #OneNote Authentication-MS Office
 nexusrules.officeapps.live.com #OneNote Authentication-MS Office
 officeclient.microsoft.com #OneNote Authentication-MS Office
+ds-aksb-a.akamaihd.net #Required for RBC
