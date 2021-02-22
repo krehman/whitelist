@@ -102,7 +102,6 @@ meta.plex.tv
 microsoftonline.com
 msftncsi.com
 my.plexapp.com
-nexusrules.officeapps.live.com
 npr-news.streaming.adswizz.com
 nine.plugins.plexapp.com
 no-ip.com
@@ -116,7 +115,6 @@ ocsp.apple.com
 office.com
 office.net
 office365.com
-officeclient.microsoft.com
 om.cbsi.com
 onedrive.live.com
 outlook.live.com
