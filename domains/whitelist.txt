@@ -219,3 +219,4 @@ nexusrules.officeapps.live.com #OneNote Authentication-MS Office
 officeclient.microsoft.com #OneNote Authentication-MS Office
 #ds-aksb-a.akamaihd.net #Required for RBC
 decision.taplytics.com #Required for RBC
+www.bing.com*
